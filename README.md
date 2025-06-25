@@ -1,6 +1,6 @@
 # 🐍 Easy Python Problem Solving
 
-A beginner-friendly Python problem solving journey by **Jisan Shadowmoor**.
+A beginner-friendly Python problem solving journey by **Jisan**.
 
 This repository contains daily problem solving practice, starting from easy level problems, gradually building up coding skills, logic building, and confidence.
 
