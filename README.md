@@ -21,7 +21,7 @@ This repository contains daily problem solving practice, starting from easy leve
 
 - Build problem solving habit.
 - Start with easy problems.
-- Slowly move towards medium level after 1 month.
+- Slowly move towards medium level after esey problem solving.
 - Build strong coding logic foundation.
 - Prepare for Data Science, Machine Learning & AI journey.
 
